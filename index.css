@@ -179,7 +179,7 @@ input {
 .no::before {
   font-size: 8px;
   font-family: 'Cambria', serif !important;
-  content: 'NO';
+  content: 'YOK';
   position: absolute;
   font-weight: bold;
   outline: 1px solid black;
